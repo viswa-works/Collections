@@ -1,0 +1,480 @@
+2020-03-06 09:00:57 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:03 INFO  Accessingclass:19 -11546
+57405
+11883
+94605
+13410
+69930
+36104
+5149
+43094
+12191
+2020-03-06 09:01:03 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:05 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:01:18 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:36 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:40 INFO  Accessingclass:19 -77706
+65232
+14865
+71175
+75375
+3089
+4917
+77810
+16256
+46123
+2020-03-06 09:01:40 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:42 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:01:47 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:01:50 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:01:54 INFO  Accessingclass:38 -null
+2020-03-06 09:01:54 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:02:05 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:02:07 INFO  Accessingclass:38 -14865
+2020-03-06 09:02:07 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:02:25 INFO  Accessingclass:43 -Enter the position to fetch the data or acess it
+2020-03-06 09:02:28 INFO  Accessingclass:46 -4917
+2020-03-06 09:02:28 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:02:39 INFO  Accessingclass:19 -77706
+65232
+71175
+75375
+3089
+4917
+77810
+16256
+46123
+1
+2020-03-06 09:02:39 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:03:22 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:03:29 INFO  Accessingclass:19 -38857
+95886
+14510
+65630
+92517
+49846
+38370
+19785
+83032
+12870
+2020-03-06 09:03:29 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:03:34 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:03:49 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:03:52 INFO  Accessingclass:19 -38857
+95886
+14510
+65630
+92517
+49846
+38370
+19785
+83032
+12870
+20
+20
+20
+34
+35
+45
+56
+67
+78
+89
+2020-03-06 09:03:52 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:04:01 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:04:10 INFO  Accessingclass:38 -null
+2020-03-06 09:04:10 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:04:13 INFO  Accessingclass:19 -38857
+95886
+14510
+65630
+92517
+49846
+38370
+19785
+83032
+12870
+20
+20
+20
+34
+35
+45
+56
+67
+78
+2020-03-06 09:04:13 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:05:00 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:05:06 INFO  Accessingclass:19 -91664
+37686
+22789
+98195
+27948
+25095
+50227
+78875
+21944
+8662
+2020-03-06 09:05:06 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:05:11 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:06:48 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:07:12 INFO  Accessingclass:19 -67
+4326
+98060
+72518
+85172
+58214
+33043
+70706
+63617
+58963
+2020-03-06 09:07:12 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:07:14 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:09:10 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:09:15 INFO  Accessingclass:19 -48019
+7843
+9054
+39299
+87713
+96661
+77735
+3058
+57712
+32063
+2020-03-06 09:09:15 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:09:19 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:09:22 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:09:25 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:10:36 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:10:43 INFO  Accessingclass:19 -28513
+50584
+86084
+26654
+24003
+16944
+26435
+25297
+13342
+37408
+2020-03-06 09:10:43 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:10:47 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:16:44 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:16:51 INFO  Accessingclass:19 -72161
+75760
+48568
+78594
+80623
+58564
+10835
+77606
+78529
+81276
+2020-03-06 09:16:51 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:16:53 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:16:58 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:17:01 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:17:03 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:20:35 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:35:03 INFO  Accessingclass:19 -2569
+14331
+94240
+41599
+69791
+61058
+60179
+28769
+22899
+78697
+2020-03-06 09:35:03 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:35:07 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:35:12 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:35:14 INFO  Accessingclass:19 -2569
+14331
+94240
+41599
+69791
+61058
+60179
+28769
+22899
+78697
+10
+20
+2020-03-06 09:35:14 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:35:17 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:35:19 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:36:38 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:36:44 INFO  Accessingclass:19 -8380
+76012
+45694
+85148
+84258
+90158
+33336
+19868
+38995
+60671
+2020-03-06 09:36:44 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:36:57 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:37:03 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:37:06 INFO  Accessingclass:19 -8380
+76012
+45694
+85148
+84258
+90158
+33336
+19868
+38995
+60671
+10
+20
+30
+2020-03-06 09:37:06 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:39:18 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:39:22 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:39:30 INFO  Accessingclass:19 -8380
+76012
+45694
+85148
+84258
+90158
+33336
+19868
+38995
+60671
+10
+20
+2020-03-06 09:39:30 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:39:45 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:39:47 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:39:49 INFO  Accessingclass:19 -8380
+76012
+85148
+84258
+90158
+33336
+19868
+38995
+60671
+10
+20
+2020-03-06 09:39:49 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:42:21 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:42:33 INFO  Accessingclass:19 -34664
+31632
+72886
+60550
+45152
+53992
+35029
+22622
+68418
+33870
+2020-03-06 09:42:33 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:42:37 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:44:08 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:44:11 INFO  Accessingclass:19 -85587
+31203
+13775
+8094
+95866
+21859
+26879
+24146
+62876
+35694
+2020-03-06 09:44:11 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:44:16 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:49:26 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:49:30 INFO  Accessingclass:19 -67744
+54486
+47866
+86867
+14178
+43771
+8255
+20210
+93208
+7913
+2020-03-06 09:49:30 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:49:33 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:49:52 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:49:56 INFO  Accessingclass:19 -89834
+22292
+39109
+41332
+79313
+38568
+17877
+19980
+91590
+85524
+2020-03-06 09:49:56 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:49:59 INFO  Accessingclass:24 -Enter the how many elements u want to add
+2020-03-06 09:50:04 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:50:06 INFO  Accessingclass:19 -89834
+22292
+39109
+41332
+79313
+38568
+17877
+19980
+91590
+85524
+10
+100
+2020-03-06 09:50:06 INFO  Accessingclass:15 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:50:11 INFO  Accessingclass:36 -Enter the position to delete at particualar index
+2020-03-06 09:57:42 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:57:48 INFO  Accessingclass:21 -7499
+80794
+44967
+37644
+22324
+65129
+14771
+71161
+69958
+64830
+2020-03-06 09:57:48 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:57:51 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 09:58:24 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:58:29 INFO  Accessingclass:21 -6641
+15207
+97563
+47171
+57226
+56217
+9213
+76897
+93500
+28244
+2020-03-06 09:58:29 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:58:34 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 09:59:18 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:59:21 INFO  Accessingclass:21 -11744
+51451
+17576
+62052
+58453
+77353
+9311
+86451
+31046
+57592
+2020-03-06 09:59:21 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:59:24 INFO  Accessingclass:26 -Enter the how many elements u want to add
+2020-03-06 09:59:39 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:59:43 INFO  Accessingclass:21 -6759
+10440
+79861
+57898
+98119
+28106
+8920
+45523
+14147
+33934
+2020-03-06 09:59:43 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 09:59:46 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 10:00:22 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 10:00:24 INFO  Accessingclass:21 -29240
+87250
+4223
+43071
+72375
+66782
+50037
+94314
+65802
+24789
+2020-03-06 10:00:24 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 10:00:27 INFO  Accessingclass:26 -Enter the how many elements u want to add
+2020-03-06 10:00:29 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 10:00:37 INFO  Accessingclass:21 -29240
+87250
+4223
+43071
+72375
+66782
+50037
+94314
+65802
+24789
+20
+2020-03-06 10:00:37 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 10:00:40 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 12:55:12 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:55:21 INFO  Accessingclass:21 -24945
+69320
+95639
+21862
+75400
+36797
+62270
+34807
+92154
+75106
+2020-03-06 12:55:21 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:55:29 INFO  Accessingclass:26 -Enter the how many elements u want to add
+2020-03-06 12:55:48 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:55:52 INFO  Accessingclass:21 -24945
+69320
+95639
+21862
+75400
+36797
+62270
+34807
+92154
+75106
+5
+4
+8
+2020-03-06 12:55:52 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:56:06 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 12:57:12 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:19 INFO  Accessingclass:21 -83919
+12370
+57012
+58401
+95914
+41248
+2554
+701
+47721
+27964
+2020-03-06 12:57:19 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:22 INFO  Accessingclass:26 -Enter the how many elements u want to add
+2020-03-06 12:57:26 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:27 INFO  Accessingclass:21 -83919
+12370
+57012
+58401
+95914
+41248
+2554
+701
+47721
+27964
+1
+2
+2020-03-06 12:57:27 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:32 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 12:57:34 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:38 INFO  Accessingclass:21 -83919
+12370
+58401
+95914
+41248
+2554
+701
+47721
+27964
+1
+2
+2020-03-06 12:57:38 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
+2020-03-06 12:57:51 INFO  Accessingclass:38 -Enter the position to delete at particualar index
+2020-03-06 12:57:53 INFO  Accessingclass:16 -Select the options 1.print the list 2.add elements 3.delete paartular position 4.fetch data at position 5.break
